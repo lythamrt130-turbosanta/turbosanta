@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<rte>
+<name>Norfolk Road</name>
+<rtept lat="53.74471" lon="-2.95904">
+<ele>5</ele>
+<time>2026-10-03T00:00:00Z</time>
+<name>Start near</name>
+<cmt>Start near 2-3 Norfolk Rd, Lytham Saint Annes, Lancashire FY8 4JH, UK</cmt>
+<desc>Start near 2-3 Norfolk Rd, Lytham Saint Annes, Lancashire FY8 4JH, UK</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74471" lon="-2.95904">
+<ele>5</ele>
+<time>2026-10-03T00:00:00Z</time>
+<name>Head east </name>
+<cmt>Head east on Norfolk Rd toward Bellingham Rd</cmt>
+<desc>Head east on Norfolk Rd toward Bellingham Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74498" lon="-2.95727">
+<ele>7</ele>
+<time>2026-10-03T00:01:27Z</time>
+<name>Head east </name>
+<cmt>Head east on Norfolk Rd toward Talbot Rd</cmt>
+<desc>Head east on Norfolk Rd toward Talbot Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74509" lon="-2.95626">
+<ele>6</ele>
+<time>2026-10-03T00:02:15Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Talbot Rd</cmt>
+<desc>Turn right onto Talbot Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74333" lon="-2.95614">
+<ele>5</ele>
+<time>2026-10-03T00:05:08Z</time>
+<name>Head west </name>
+<cmt>Head west on Talbot Rd toward Bellingham Rd</cmt>
+<desc>Head west on Talbot Rd toward Bellingham Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74329" lon="-2.95667">
+<ele>4</ele>
+<time>2026-10-03T00:05:34Z</time>
+<name>Continue o</name>
+<cmt>Continue onto Wykeham Rd</cmt>
+<desc>Continue onto Wykeham Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74316" lon="-2.95827">
+<ele>3</ele>
+<time>2026-10-03T00:06:50Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Park View Rd/A584</cmt>
+<desc>Turn right onto Park View Rd/A584</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74319" lon="-2.95828">
+<ele>3</ele>
+<time>2026-10-03T00:06:53Z</time>
+<name>Head south</name>
+<cmt>Head south on Park View Rd/A584 toward Wykeham Rd</cmt>
+<desc>Head south on Park View Rd/A584 toward Wykeham Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74065" lon="-2.95767">
+<ele>3</ele>
+<time>2026-10-03T00:10:18Z</time>
+<name>Head south</name>
+<cmt>Head southeast toward Mythop Rd/B5259</cmt>
+<desc>Head southeast toward Mythop Rd/B5259</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74062" lon="-2.95757">
+<ele>4</ele>
+<time>2026-10-03T00:10:24Z</time>
+<name>Exit the r</name>
+<cmt>Exit the roundabout onto Mythop Rd/B5259</cmt>
+<desc>Exit the roundabout onto Mythop Rd/B5259</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74076" lon="-2.95729">
+<ele>3</ele>
+<time>2026-10-03T00:10:42Z</time>
+<name>Head north</name>
+<cmt>Head northeast on Mythop Rd/B5259 toward Brookfield Terrace</cmt>
+<desc>Head northeast on Mythop Rd/B5259 toward Brookfield Terrace</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74078" lon="-2.95726">
+<ele>3</ele>
+<time>2026-10-03T00:10:44Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Brookfield Terrace</cmt>
+<desc>Turn right onto Brookfield Terrace</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74004" lon="-2.9571">
+<ele>4</ele>
+<time>2026-10-03T00:11:44Z</time>
+<name>Head east </name>
+<cmt>Head east on Brook Rd toward Mythop Cl</cmt>
+<desc>Head east on Brook Rd toward Mythop Cl</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74012" lon="-2.9544">
+<ele>3</ele>
+<time>2026-10-03T00:13:52Z</time>
+<name>Head north</name>
+<cmt>Head north on Mythop Ave toward Mythop Cl</cmt>
+<desc>Head north on Mythop Ave toward Mythop Cl</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74444" lon="-2.94596">
+<ele>5</ele>
+<time>2026-10-03T00:24:05Z</time>
+<name>At the rou</name>
+<cmt>At the roundabout, take the 1st exit onto Saltcotes Rd/B5259</cmt>
+<desc>At the roundabout, take the 1st exit onto Saltcotes Rd/B5259</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74578" lon="-2.9456">
+<ele>4</ele>
+<time>2026-10-03T00:25:57Z</time>
+<name>Head east </name>
+<cmt>Head east on Tewkesbury Dr toward Cheltenham Cres</cmt>
+<desc>Head east on Tewkesbury Dr toward Cheltenham Cres</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74565" lon="-2.94386">
+<ele>5</ele>
+<time>2026-10-03T00:27:20Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Cotswold Rd</cmt>
+<desc>Turn left onto Cotswold Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74629" lon="-2.94307">
+<ele>3</ele>
+<time>2026-10-03T00:28:36Z</time>
+<name>Head east </name>
+<cmt>Head east on Cotswold Rd toward Howgill Way</cmt>
+<desc>Head east on Cotswold Rd toward Howgill Way</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74645" lon="-2.94108">
+<ele>3</ele>
+<time>2026-10-03T00:30:31Z</time>
+<name>Continue o</name>
+<cmt>Continue onto Cheviot Ave</cmt>
+<desc>Continue onto Cheviot Ave</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74735" lon="-2.93992">
+<ele>3</ele>
+<time>2026-10-03T00:32:06Z</time>
+<name>Head south</name>
+<cmt>Head southwest on Cheviot Ave toward Grampian Way</cmt>
+<desc>Head southwest on Cheviot Ave toward Grampian Way</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74578" lon="-2.9456">
+<ele>4</ele>
+<time>2026-10-03T00:38:14Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Saltcotes Rd/B5259</cmt>
+<desc>Turn left onto Saltcotes Rd/B5259</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74456" lon="-2.94584">
+<ele>5</ele>
+<time>2026-10-03T00:39:52Z</time>
+<name>At the rou</name>
+<cmt>At the roundabout, take the 1st exit onto Saltcotes Rd</cmt>
+<desc>At the roundabout, take the 1st exit onto Saltcotes Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74353" lon="-2.94441">
+<ele>7</ele>
+<time>2026-10-03T00:41:42Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Saltcotes Pl</cmt>
+<desc>Turn left onto Saltcotes Pl</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74396" lon="-2.94358">
+<ele>7</ele>
+<time>2026-10-03T00:42:35Z</time>
+<name>Head south</name>
+<cmt>Head southwest on Saltcotes Pl</cmt>
+<desc>Head southwest on Saltcotes Pl</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74353" lon="-2.94441">
+<ele>7</ele>
+<time>2026-10-03T00:43:27Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Saltcotes Rd</cmt>
+<desc>Turn left onto Saltcotes Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74293" lon="-2.9436">
+<ele>7</ele>
+<time>2026-10-03T00:44:29Z</time>
+<name>At the rou</name>
+<cmt>At the roundabout, take the 1st exit onto Preston Rd/A584</cmt>
+<desc>At the roundabout, take the 1st exit onto Preston Rd/A584</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74366" lon="-2.94109">
+<ele>5</ele>
+<time>2026-10-03T00:46:48Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Meadow Ln</cmt>
+<desc>Turn left onto Meadow Ln</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.7442" lon="-2.94149">
+<ele>4</ele>
+<time>2026-10-03T00:47:36Z</time>
+<name>Meadow Ln </name>
+<cmt>Meadow Ln turns right and becomes Mornington Rd</cmt>
+<desc>Meadow Ln turns right and becomes Mornington Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.7447" lon="-2.9399">
+<ele>3</ele>
+<time>2026-10-03T00:49:02Z</time>
+<name>Head south</name>
+<cmt>Head southwest on Mornington Rd toward Meadow Ln</cmt>
+<desc>Head southwest on Mornington Rd toward Meadow Ln</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.7442" lon="-2.94149">
+<ele>4</ele>
+<time>2026-10-03T00:50:28Z</time>
+<name>Mornington</name>
+<cmt>Mornington Rd turns left and becomes Meadow Ln</cmt>
+<desc>Mornington Rd turns left and becomes Meadow Ln</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74366" lon="-2.94109">
+<ele>5</ele>
+<time>2026-10-03T00:51:15Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Preston Rd/A584</cmt>
+<desc>Turn right onto Preston Rd/A584</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74102" lon="-2.94509">
+<ele>5</ele>
+<time>2026-10-03T00:56:26Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Dock Rd</cmt>
+<desc>Turn left onto Dock Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74101" lon="-2.94502">
+<ele>5</ele>
+<time>2026-10-03T00:56:30Z</time>
+<name>Head east </name>
+<cmt>Head east on Dock Rd</cmt>
+<desc>Head east on Dock Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74094" lon="-2.94427">
+<ele>5</ele>
+<time>2026-10-03T00:57:06Z</time>
+<name>Head south</name>
+<cmt>Head south toward Nelson Way</cmt>
+<desc>Head south toward Nelson Way</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74067" lon="-2.94229">
+<ele>6</ele>
+<time>2026-10-03T00:58:57Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Nelson Way</cmt>
+<desc>Turn right onto Nelson Way</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.7391" lon="-2.94159">
+<ele>7</ele>
+<time>2026-10-03T01:01:12Z</time>
+<name>Head south</name>
+<cmt>Head southeast on Nelson Way toward Victory Blvd</cmt>
+<desc>Head southeast on Nelson Way toward Victory Blvd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.73908" lon="-2.94156">
+<ele>7</ele>
+<time>2026-10-03T01:01:15Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Victory Blvd</cmt>
+<desc>Turn right onto Victory Blvd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.73759" lon="-2.94532">
+<ele>6</ele>
+<time>2026-10-03T01:04:51Z</time>
+<name>Head north</name>
+<cmt>Head northwest on Victory Blvd</cmt>
+<desc>Head northwest on Victory Blvd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.73794" lon="-2.94693">
+<ele>5</ele>
+<time>2026-10-03T01:07:06Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Warton St</cmt>
+<desc>Turn right onto Warton St</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.73795" lon="-2.94829">
+<ele>5</ele>
+<time>2026-10-03T01:08:11Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Trent St</cmt>
+<desc>Turn right onto Trent St</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74062" lon="-2.94762">
+<ele>3</ele>
+<time>2026-10-03T01:12:38Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Lorne St</cmt>
+<desc>Turn left onto Lorne St</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.73788" lon="-2.94949">
+<ele>5</ele>
+<time>2026-10-03T01:17:45Z</time>
+<name>Head west </name>
+<cmt>Head west on Warton St toward Grosvenor St</cmt>
+<desc>Head west on Warton St toward Grosvenor St</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.73781" lon="-2.95066">
+<ele>5</ele>
+<time>2026-10-03T01:18:41Z</time>
+<name>Head north</name>
+<cmt>Head north on Freckleton St toward N Warton St</cmt>
+<desc>Head north on Freckleton St toward N Warton St</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.73934" lon="-2.95091">
+<ele>5</ele>
+<time>2026-10-03T01:20:44Z</time>
+<name>Head west </name>
+<cmt>Head west on Victoria St toward E Cliffe</cmt>
+<desc>Head west on Victoria St toward E Cliffe</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.73925" lon="-2.95208">
+<ele>5</ele>
+<time>2026-10-03T01:21:40Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto E Cliffe</cmt>
+<desc>Turn left onto E Cliffe</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.73923" lon="-2.95208">
+<ele>5</ele>
+<time>2026-10-03T01:21:42Z</time>
+<name>Head south</name>
+<cmt>Head south on E Cliffe toward N Warton St</cmt>
+<desc>Head south on E Cliffe toward N Warton St</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.73773" lon="-2.95185">
+<ele>5</ele>
+<time>2026-10-03T01:23:43Z</time>
+<name>Head west </name>
+<cmt>Head west on Warton St toward W Cliffe</cmt>
+<desc>Head west on Warton St toward W Cliffe</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.73746" lon="-2.95689">
+<ele>6</ele>
+<time>2026-10-03T01:27:43Z</time>
+<name>Turn right</name>
+<cmt>Turn right at the 1st cross street onto Station Rd/B5259</cmt>
+<desc>Turn right at the 1st cross street onto Station Rd/B5259</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.73839" lon="-2.95712">
+<ele>6</ele>
+<time>2026-10-03T01:28:58Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Westby St</cmt>
+<desc>Turn left onto Westby St</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.73835" lon="-2.96303">
+<ele>6</ele>
+<time>2026-10-03T01:33:38Z</time>
+<name>FINISH</name>
+<cmt>FINISH</cmt>
+<desc>FINISH</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+</rte>
+</gpx>

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<rte>
+<name>Balmoral Road</name>
+<rtept lat="53.74712" lon="-3.01603">
+<ele>10</ele>
+<time>2026-10-03T00:01:42Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto St Andrew&#39;s Rd S</cmt>
+<desc>Turn right onto St Andrew&#39;s Rd S</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.7449" lon="-3.01568">
+<ele>10</ele>
+<time>2026-10-03T00:05:31Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Clifton Dr S/A584</cmt>
+<desc>Turn right onto Clifton Dr S/A584</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74537" lon="-3.01767">
+<ele>10</ele>
+<time>2026-10-03T00:07:12Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Hungerford Rd</cmt>
+<desc>Turn left onto Hungerford Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74525" lon="-3.01775">
+<ele>10</ele>
+<time>2026-10-03T00:07:23Z</time>
+<name>Head south</name>
+<cmt>Head south on Hungerford Rd toward Laverton Rd</cmt>
+<desc>Head south on Hungerford Rd toward Laverton Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74465" lon="-3.01817">
+<ele>9</ele>
+<time>2026-10-03T00:08:15Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Laverton Rd</cmt>
+<desc>Turn left onto Laverton Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74337" lon="-3.01297">
+<ele>9</ele>
+<time>2026-10-03T00:12:42Z</time>
+<name>Head south</name>
+<cmt>Head southeast on Laverton Rd toward King Edward Ave</cmt>
+<desc>Head southeast on Laverton Rd toward King Edward Ave</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74328" lon="-3.01262">
+<ele>9</ele>
+<time>2026-10-03T00:13:00Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto King Edward Ave</cmt>
+<desc>Turn right onto King Edward Ave</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74289" lon="-3.01273">
+<ele>9</ele>
+<time>2026-10-03T00:13:38Z</time>
+<name>Head south</name>
+<cmt>Head southwest on King Edward Ave toward The Blvd</cmt>
+<desc>Head southwest on King Edward Ave toward The Blvd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74265" lon="-3.0129">
+<ele>9</ele>
+<time>2026-10-03T00:13:58Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto The Blvd</cmt>
+<desc>Turn right onto The Blvd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74301" lon="-3.01437">
+<ele>9</ele>
+<time>2026-10-03T00:15:14Z</time>
+<name>Head north</name>
+<cmt>Head northwest on The Blvd toward Denford Ave</cmt>
+<desc>Head northwest on The Blvd toward Denford Ave</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74383" lon="-3.01772">
+<ele>9</ele>
+<time>2026-10-03T00:18:06Z</time>
+<name>Head west </name>
+<cmt>Head west on The Blvd toward Kintbury Rd</cmt>
+<desc>Head west on The Blvd toward Kintbury Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74389" lon="-3.01797">
+<ele>9</ele>
+<time>2026-10-03T00:18:19Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Kintbury Rd</cmt>
+<desc>Turn left onto Kintbury Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74339" lon="-3.01827">
+<ele>9</ele>
+<time>2026-10-03T00:19:01Z</time>
+<name>Head south</name>
+<cmt>Head south on Kintbury Rd toward Newbury Rd</cmt>
+<desc>Head south on Kintbury Rd toward Newbury Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.7432" lon="-3.01839">
+<ele>9</ele>
+<time>2026-10-03T00:19:17Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Newbury Rd</cmt>
+<desc>Turn left onto Newbury Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74271" lon="-3.01635">
+<ele>9</ele>
+<time>2026-10-03T00:21:02Z</time>
+<name>Head east </name>
+<cmt>Head east on Newbury Rd toward Denford Ave</cmt>
+<desc>Head east on Newbury Rd toward Denford Ave</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74212" lon="-3.01387">
+<ele>9</ele>
+<time>2026-10-03T00:23:09Z</time>
+<name>Head east </name>
+<cmt>Head east on Newbury Rd toward King Edward Ave</cmt>
+<desc>Head east on Newbury Rd toward King Edward Ave</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74202" lon="-3.01347">
+<ele>8</ele>
+<time>2026-10-03T00:23:29Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto King Edward Ave</cmt>
+<desc>Turn right onto King Edward Ave</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74168" lon="-3.01354">
+<ele>8</ele>
+<time>2026-10-03T00:24:02Z</time>
+<name>Head south</name>
+<cmt>Head south on King Edward Ave toward Shalbourn Rd</cmt>
+<desc>Head south on King Edward Ave toward Shalbourn Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74136" lon="-3.01375">
+<ele>8</ele>
+<time>2026-10-03T00:24:30Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Shalbourn Rd</cmt>
+<desc>Turn right onto Shalbourn Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.7416" lon="-3.01476">
+<ele>8</ele>
+<time>2026-10-03T00:25:21Z</time>
+<name>Head west </name>
+<cmt>Head west on Shalbourn Rd toward Denford Ave</cmt>
+<desc>Head west on Shalbourn Rd toward Denford Ave</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74203" lon="-3.01664">
+<ele>8</ele>
+<time>2026-10-03T00:26:57Z</time>
+<name>Turn left </name>
+<cmt>Turn left at the 1st cross street onto Denford Ave</cmt>
+<desc>Turn left at the 1st cross street onto Denford Ave</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74157" lon="-3.01697">
+<ele>8</ele>
+<time>2026-10-03T00:27:37Z</time>
+<name>Head south</name>
+<cmt>Head southwest on Denford Ave toward Inner Promenade</cmt>
+<desc>Head southwest on Denford Ave toward Inner Promenade</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.7412" lon="-3.01723">
+<ele>7</ele>
+<time>2026-10-03T00:28:10Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Inner Promenade</cmt>
+<desc>Turn right onto Inner Promenade</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74214" lon="-3.02006">
+<ele>7</ele>
+<time>2026-10-03T00:30:44Z</time>
+<name>Head north</name>
+<cmt>Head northwest on Inner Promenade toward Cartmell Rd</cmt>
+<desc>Head northwest on Inner Promenade toward Cartmell Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.7425" lon="-3.02101">
+<ele>7</ele>
+<time>2026-10-03T00:31:37Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Cartmell Rd</cmt>
+<desc>Turn right onto Cartmell Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74382" lon="-3.0201">
+<ele>8</ele>
+<time>2026-10-03T00:33:31Z</time>
+<name>Head north</name>
+<cmt>Head north on Cartmell Rd toward Alexandria Dr</cmt>
+<desc>Head north on Cartmell Rd toward Alexandria Dr</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74531" lon="-3.01906">
+<ele>10</ele>
+<time>2026-10-03T00:35:40Z</time>
+<name>Head north</name>
+<cmt>Head northeast on Cartmell Rd toward Clifton Dr S/A584</cmt>
+<desc>Head northeast on Cartmell Rd toward Clifton Dr S/A584</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74565" lon="-3.01882">
+<ele>10</ele>
+<time>2026-10-03T00:36:10Z</time>
+<name>Turn right</name>
+<cmt>Turn right at the 1st cross street onto Clifton Dr S/A584</cmt>
+<desc>Turn right at the 1st cross street onto Clifton Dr S/A584</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74731" lon="-3.01767">
+<ele>10</ele>
+<time>2026-10-03T00:38:34Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto St Andrew&#39;s Rd S</cmt>
+<desc>Turn left onto St Andrew&#39;s Rd S</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74772" lon="-3.01885">
+<ele>10</ele>
+<time>2026-10-03T00:39:39Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Queen&#39;s Rd</cmt>
+<desc>Turn left onto Queen&#39;s Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74603" lon="-3.02039">
+<ele>10</ele>
+<time>2026-10-03T00:42:13Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Clifton Dr S/A584</cmt>
+<desc>Turn right onto Clifton Dr S/A584</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.7464" lon="-3.02189">
+<ele>9</ele>
+<time>2026-10-03T00:43:30Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto York Rd</cmt>
+<desc>Turn right onto York Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74862" lon="-3.02108">
+<ele>10</ele>
+<time>2026-10-03T00:47:23Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Victoria Rd</cmt>
+<desc>Turn left onto Victoria Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74763" lon="-3.02259">
+<ele>9</ele>
+<time>2026-10-03T00:49:10Z</time>
+<name>FINISH</name>
+<cmt>FINISH</cmt>
+<desc>FINISH</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+</rte>
+</gpx>

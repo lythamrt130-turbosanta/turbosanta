@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<rte>
+<name>St Leonards Rd E</name>
+<rtept lat="53.760616" lon="-3.029065">
+<ele>10</ele>
+<time>2026-10-03T00:00:26Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto St Leonard&#39;s Road East</cmt>
+<desc>Turn left onto St Leonard&#39;s Road East</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.76089" lon="-3.02543">
+<ele>9</ele>
+<time>2026-10-03T00:03:29Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Dorset Rd</cmt>
+<desc>Turn left onto Dorset Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.75954" lon="-3.02974">
+<ele>9</ele>
+<time>2026-10-03T00:08:57Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Oxford Rd</cmt>
+<desc>Turn left onto Oxford Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.75848" lon="-3.02821">
+<ele>10</ele>
+<time>2026-10-03T00:10:49Z</time>
+<name>Turn left </name>
+<cmt>Turn left at the 1st cross street onto Mayfield Rd</cmt>
+<desc>Turn left at the 1st cross street onto Mayfield Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.7591" lon="-3.0251">
+<ele>9</ele>
+<time>2026-10-03T00:13:31Z</time>
+<name>Turn right</name>
+<cmt>Turn right at the 1st cross street onto Dorset Rd</cmt>
+<desc>Turn right at the 1st cross street onto Dorset Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.75725" lon="-3.02502">
+<ele>9</ele>
+<time>2026-10-03T00:16:00Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Oxford Rd</cmt>
+<desc>Turn left onto Oxford Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.75542" lon="-3.02362">
+<ele>8</ele>
+<time>2026-10-03T00:19:41Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto St Anne&#39;s Rd E/B5233</cmt>
+<desc>Turn right onto St Anne&#39;s Rd E/B5233</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.75458" lon="-3.02524">
+<ele>9</ele>
+<time>2026-10-03T00:21:24Z</time>
+<name>Turn right</name>
+<cmt>Turn right at the 1st cross street onto St Patrick&#39;s Rd N</cmt>
+<desc>Turn right at the 1st cross street onto St Patrick&#39;s Rd N</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.75532" lon="-3.02634">
+<ele>8</ele>
+<time>2026-10-03T00:22:42Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Glen Eldon Rd</cmt>
+<desc>Turn left onto Glen Eldon Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.75591" lon="-3.02721">
+<ele>8</ele>
+<time>2026-10-03T00:23:46Z</time>
+<name>Turn left </name>
+<cmt>Turn left at the 1st cross street onto Knowles Rd</cmt>
+<desc>Turn left at the 1st cross street onto Knowles Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.7549" lon="-3.0292">
+<ele>8</ele>
+<time>2026-10-03T00:25:50Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto St David&#39;s Rd N</cmt>
+<desc>Turn right onto St David&#39;s Rd N</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.75549" lon="-3.03004">
+<ele>8</ele>
+<time>2026-10-03T00:26:52Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Grange Rd</cmt>
+<desc>Turn right onto Grange Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.75731" lon="-3.0265">
+<ele>9</ele>
+<time>2026-10-03T00:30:34Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Oxford Rd</cmt>
+<desc>Turn left onto Oxford Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.75789" lon="-3.02735">
+<ele>9</ele>
+<time>2026-10-03T00:31:36Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Sandhurst Ave</cmt>
+<desc>Turn left onto Sandhurst Ave</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.75609" lon="-3.0309">
+<ele>8</ele>
+<time>2026-10-03T00:35:18Z</time>
+<name>Turn right</name>
+<cmt>Turn right at the 1st cross street onto St David&#39;s Rd N</cmt>
+<desc>Turn right at the 1st cross street onto St David&#39;s Rd N</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.7567" lon="-3.03176">
+<ele>9</ele>
+<time>2026-10-03T00:36:21Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Mayfield Rd</cmt>
+<desc>Turn right onto Mayfield Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.7577" lon="-3.02978">
+<ele>9</ele>
+<time>2026-10-03T00:38:25Z</time>
+<name>Turn left </name>
+<cmt>Turn left at the 1st cross street onto St Patrick&#39;s Rd N</cmt>
+<desc>Turn left at the 1st cross street onto St Patrick&#39;s Rd N</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.75825" lon="-3.03057">
+<ele>9</ele>
+<time>2026-10-03T00:39:22Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Allenby Rd</cmt>
+<desc>Turn left onto Allenby Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.75725" lon="-3.03256">
+<ele>9</ele>
+<time>2026-10-03T00:41:26Z</time>
+<name>Turn right</name>
+<cmt>Turn right at the 1st cross street onto St David&#39;s Rd N</cmt>
+<desc>Turn right at the 1st cross street onto St David&#39;s Rd N</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.75782" lon="-3.03337">
+<ele>9</ele>
+<time>2026-10-03T00:42:26Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Ryeheys Rd</cmt>
+<desc>Turn right onto Ryeheys Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.75783" lon="-3.033395">
+<ele>9</ele>
+<time>2026-10-03T00:42:28Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Ryeheys Road</cmt>
+<desc>Turn right onto Ryeheys Road</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.758814" lon="-3.03143">
+<ele>9</ele>
+<time>2026-10-03T00:44:30Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto St Patrick&#39;s Road North</cmt>
+<desc>Turn left onto St Patrick&#39;s Road North</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.759422" lon="-3.032278">
+<ele>9</ele>
+<time>2026-10-03T00:45:33Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto St Leonard&#39;s Road East</cmt>
+<desc>Turn right onto St Leonard&#39;s Road East</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.760492" lon="-3.029399">
+<ele>10</ele>
+<time>2026-10-03T00:48:14Z</time>
+<name>FINISH</name>
+<cmt>FINISH</cmt>
+<desc>FINISH</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+</rte>
+</gpx>

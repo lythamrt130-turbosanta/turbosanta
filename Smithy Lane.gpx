@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<rte>
+<name>Smithy Lane</name>
+<rtept lat="53.7471" lon="-2.99378">
+<ele>7</ele>
+<time>2026-10-03T00:25:32Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Lansdowne Rd</cmt>
+<desc>Turn left onto Lansdowne Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74423" lon="-2.99242">
+<ele>8</ele>
+<time>2026-10-03T00:34:30Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Seymour Rd</cmt>
+<desc>Turn left onto Seymour Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74386" lon="-2.99094">
+<ele>7</ele>
+<time>2026-10-03T00:35:46Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Woodlands Rd</cmt>
+<desc>Turn right onto Woodlands Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74272" lon="-2.98742">
+<ele>7</ele>
+<time>2026-10-03T00:39:30Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Blackpool Rd/B5261</cmt>
+<desc>Turn right onto Blackpool Rd/B5261</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74264" lon="-2.98735">
+<ele>7</ele>
+<time>2026-10-03T00:39:37Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Ansdell Rd N</cmt>
+<desc>Turn right onto Ansdell Rd N</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74182" lon="-2.98791">
+<ele>7</ele>
+<time>2026-10-03T00:40:48Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Rossall Rd</cmt>
+<desc>Turn right onto Rossall Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74215" lon="-2.9893">
+<ele>8</ele>
+<time>2026-10-03T00:41:59Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Kensington Rd</cmt>
+<desc>Turn left onto Kensington Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74142" lon="-2.99125">
+<ele>8</ele>
+<time>2026-10-03T00:44:43Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Buckingham Rd</cmt>
+<desc>Turn right onto Buckingham Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74244" lon="-2.99051">
+<ele>8</ele>
+<time>2026-10-03T00:46:12Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Rossall Rd</cmt>
+<desc>Turn left onto Rossall Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74348" lon="-2.99485">
+<ele>8</ele>
+<time>2026-10-03T00:49:54Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Gordon Rd</cmt>
+<desc>Turn right onto Gordon Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74429" lon="-2.9942">
+<ele>8</ele>
+<time>2026-10-03T00:51:06Z</time>
+<name>Turn left </name>
+<cmt>Turn left to stay on Gordon Rd</cmt>
+<desc>Turn left to stay on Gordon Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74513" lon="-2.99521">
+<ele>8</ele>
+<time>2026-10-03T00:52:45Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Derby Rd</cmt>
+<desc>Turn left onto Derby Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74378" lon="-2.996">
+<ele>9</ele>
+<time>2026-10-03T00:54:40Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Links View</cmt>
+<desc>Turn right onto Links View</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74432" lon="-2.99692">
+<ele>8</ele>
+<time>2026-10-03T00:55:48Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Belmont Rd</cmt>
+<desc>Turn left onto Belmont Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74535" lon="-2.9963">
+<ele>8</ele>
+<time>2026-10-03T00:57:16Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Central Dr</cmt>
+<desc>Turn left onto Central Dr</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.74541" lon="-2.9966">
+<ele>8</ele>
+<time>2026-10-03T00:57:31Z</time>
+<name>FINISH</name>
+<cmt>FINISH</cmt>
+<desc>FINISH</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+</rte>
+</gpx>

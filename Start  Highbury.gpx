@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<rte>
+<name>Start  Highbury</name>
+<rtept lat="53.761656" lon="-3.030259">
+<ele>10</ele>
+<time>2026-10-03T00:01:33Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Heeley Road</cmt>
+<desc>Turn left onto Heeley Road</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.761479" lon="-3.032621">
+<ele>10</ele>
+<time>2026-10-03T00:03:27Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Ambleside Road</cmt>
+<desc>Turn right onto Ambleside Road</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.762407" lon="-3.032925">
+<ele>10</ele>
+<time>2026-10-03T00:04:43Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Highbury Road East</cmt>
+<desc>Turn right onto Highbury Road East</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.762413" lon="-3.03274">
+<ele>10</ele>
+<time>2026-10-03T00:04:52Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Frobisher Drive</cmt>
+<desc>Turn left onto Frobisher Drive</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.76649" lon="-3.02561">
+<ele>8</ele>
+<time>2026-10-03T00:17:58Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Leach Ln</cmt>
+<desc>Turn right onto Leach Ln</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.76509" lon="-3.02489">
+<ele>8</ele>
+<time>2026-10-03T00:19:56Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Clive Ave</cmt>
+<desc>Turn right onto Clive Ave</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.76482" lon="-3.02878">
+<ele>9</ele>
+<time>2026-10-03T00:23:03Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Marlborough Rd</cmt>
+<desc>Turn left onto Marlborough Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.76398" lon="-3.02833">
+<ele>9</ele>
+<time>2026-10-03T00:24:14Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Chatham Ave</cmt>
+<desc>Turn left onto Chatham Ave</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.76439" lon="-3.02455">
+<ele>8</ele>
+<time>2026-10-03T00:27:16Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Leach Ln</cmt>
+<desc>Turn right onto Leach Ln</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.76366" lon="-3.02433">
+<ele>9</ele>
+<time>2026-10-03T00:28:15Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Grenville Ave</cmt>
+<desc>Turn right onto Grenville Ave</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.76325" lon="-3.02899">
+<ele>9</ele>
+<time>2026-10-03T00:31:59Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Grasmere Rd</cmt>
+<desc>Turn left onto Grasmere Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.76254" lon="-3.0288">
+<ele>10</ele>
+<time>2026-10-03T00:32:56Z</time>
+<name>Turn left </name>
+<cmt>Turn left at the 1st cross street onto Highbury Rd E</cmt>
+<desc>Turn left at the 1st cross street onto Highbury Rd E</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.76272" lon="-3.02421">
+<ele>9</ele>
+<time>2026-10-03T00:36:34Z</time>
+<name>At the rou</name>
+<cmt>At the roundabout, take the 1st exit</cmt>
+<desc>At the roundabout, take the 1st exit</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.76563" lon="-3.02362">
+<ele>8</ele>
+<time>2026-10-03T00:41:29Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Dawson Rd</cmt>
+<desc>Turn right onto Dawson Rd</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.7667" lon="-3.0225">
+<ele>8</ele>
+<time>2026-10-03T00:43:10Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Blackpool Rd N</cmt>
+<desc>Turn right onto Blackpool Rd N</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.76612" lon="-3.02087">
+<ele>8</ele>
+<time>2026-10-03T00:44:40Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Bowness Ave</cmt>
+<desc>Turn left onto Bowness Ave</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.76688" lon="-3.02013">
+<ele>8</ele>
+<time>2026-10-03T00:45:51Z</time>
+<name>Turn left </name>
+<cmt>Turn left at the 1st cross street onto Hoyle Ave</cmt>
+<desc>Turn left at the 1st cross street onto Hoyle Ave</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.76732" lon="-3.02136">
+<ele>8</ele>
+<time>2026-10-03T00:46:59Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Coniston Ave</cmt>
+<desc>Turn right onto Coniston Ave</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+<rtept lat="53.76608" lon="-3.01597">
+<ele>8</ele>
+<time>2026-10-03T00:55:17Z</time>
+<name>FINISH</name>
+<cmt>FINISH</cmt>
+<desc>FINISH</desc>
+<sym>Flag, Blue</sym>
+</rtept>
+</rte>
+</gpx>

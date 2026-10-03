@@ -1,201 +1,268 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-<metadata>
-<desc>Route created on plotaroute.com</desc>
-</metadata>
-<rte>
-<name>St Leonards Rd E</name>
-<rtept lat="53.760616" lon="-3.029065">
-<ele>10</ele>
-<time>2026-10-03T00:00:26Z</time>
-<name>Turn left </name>
-<cmt>Turn left onto St Leonard&#39;s Road East</cmt>
-<desc>Turn left onto St Leonard&#39;s Road East</desc>
-<sym>Flag, Blue</sym>
-</rtept>
-<rtept lat="53.76089" lon="-3.02543">
-<ele>9</ele>
-<time>2026-10-03T00:03:29Z</time>
-<name>Turn left </name>
-<cmt>Turn left onto Dorset Rd</cmt>
-<desc>Turn left onto Dorset Rd</desc>
-<sym>Flag, Blue</sym>
-</rtept>
-<rtept lat="53.75954" lon="-3.02974">
-<ele>9</ele>
-<time>2026-10-03T00:08:57Z</time>
-<name>Turn left </name>
-<cmt>Turn left onto Oxford Rd</cmt>
-<desc>Turn left onto Oxford Rd</desc>
-<sym>Flag, Blue</sym>
-</rtept>
-<rtept lat="53.75848" lon="-3.02821">
-<ele>10</ele>
-<time>2026-10-03T00:10:49Z</time>
-<name>Turn left </name>
-<cmt>Turn left at the 1st cross street onto Mayfield Rd</cmt>
-<desc>Turn left at the 1st cross street onto Mayfield Rd</desc>
-<sym>Flag, Blue</sym>
-</rtept>
-<rtept lat="53.7591" lon="-3.0251">
-<ele>9</ele>
-<time>2026-10-03T00:13:31Z</time>
-<name>Turn right</name>
-<cmt>Turn right at the 1st cross street onto Dorset Rd</cmt>
-<desc>Turn right at the 1st cross street onto Dorset Rd</desc>
-<sym>Flag, Blue</sym>
-</rtept>
-<rtept lat="53.75725" lon="-3.02502">
-<ele>9</ele>
-<time>2026-10-03T00:16:00Z</time>
-<name>Turn left </name>
-<cmt>Turn left onto Oxford Rd</cmt>
-<desc>Turn left onto Oxford Rd</desc>
-<sym>Flag, Blue</sym>
-</rtept>
-<rtept lat="53.75542" lon="-3.02362">
-<ele>8</ele>
-<time>2026-10-03T00:19:41Z</time>
-<name>Turn right</name>
-<cmt>Turn right onto St Anne&#39;s Rd E/B5233</cmt>
-<desc>Turn right onto St Anne&#39;s Rd E/B5233</desc>
-<sym>Flag, Blue</sym>
-</rtept>
-<rtept lat="53.75458" lon="-3.02524">
-<ele>9</ele>
-<time>2026-10-03T00:21:24Z</time>
-<name>Turn right</name>
-<cmt>Turn right at the 1st cross street onto St Patrick&#39;s Rd N</cmt>
-<desc>Turn right at the 1st cross street onto St Patrick&#39;s Rd N</desc>
-<sym>Flag, Blue</sym>
-</rtept>
-<rtept lat="53.75532" lon="-3.02634">
-<ele>8</ele>
-<time>2026-10-03T00:22:42Z</time>
-<name>Turn left </name>
-<cmt>Turn left onto Glen Eldon Rd</cmt>
-<desc>Turn left onto Glen Eldon Rd</desc>
-<sym>Flag, Blue</sym>
-</rtept>
-<rtept lat="53.75591" lon="-3.02721">
-<ele>8</ele>
-<time>2026-10-03T00:23:46Z</time>
-<name>Turn left </name>
-<cmt>Turn left at the 1st cross street onto Knowles Rd</cmt>
-<desc>Turn left at the 1st cross street onto Knowles Rd</desc>
-<sym>Flag, Blue</sym>
-</rtept>
-<rtept lat="53.7549" lon="-3.0292">
-<ele>8</ele>
-<time>2026-10-03T00:25:50Z</time>
-<name>Turn right</name>
-<cmt>Turn right onto St David&#39;s Rd N</cmt>
-<desc>Turn right onto St David&#39;s Rd N</desc>
-<sym>Flag, Blue</sym>
-</rtept>
-<rtept lat="53.75549" lon="-3.03004">
-<ele>8</ele>
-<time>2026-10-03T00:26:52Z</time>
-<name>Turn right</name>
-<cmt>Turn right onto Grange Rd</cmt>
-<desc>Turn right onto Grange Rd</desc>
-<sym>Flag, Blue</sym>
-</rtept>
-<rtept lat="53.75731" lon="-3.0265">
-<ele>9</ele>
-<time>2026-10-03T00:30:34Z</time>
-<name>Turn left </name>
-<cmt>Turn left onto Oxford Rd</cmt>
-<desc>Turn left onto Oxford Rd</desc>
-<sym>Flag, Blue</sym>
-</rtept>
-<rtept lat="53.75789" lon="-3.02735">
-<ele>9</ele>
-<time>2026-10-03T00:31:36Z</time>
-<name>Turn left </name>
-<cmt>Turn left onto Sandhurst Ave</cmt>
-<desc>Turn left onto Sandhurst Ave</desc>
-<sym>Flag, Blue</sym>
-</rtept>
-<rtept lat="53.75609" lon="-3.0309">
-<ele>8</ele>
-<time>2026-10-03T00:35:18Z</time>
-<name>Turn right</name>
-<cmt>Turn right at the 1st cross street onto St David&#39;s Rd N</cmt>
-<desc>Turn right at the 1st cross street onto St David&#39;s Rd N</desc>
-<sym>Flag, Blue</sym>
-</rtept>
-<rtept lat="53.7567" lon="-3.03176">
-<ele>9</ele>
-<time>2026-10-03T00:36:21Z</time>
-<name>Turn right</name>
-<cmt>Turn right onto Mayfield Rd</cmt>
-<desc>Turn right onto Mayfield Rd</desc>
-<sym>Flag, Blue</sym>
-</rtept>
-<rtept lat="53.7577" lon="-3.02978">
-<ele>9</ele>
-<time>2026-10-03T00:38:25Z</time>
-<name>Turn left </name>
-<cmt>Turn left at the 1st cross street onto St Patrick&#39;s Rd N</cmt>
-<desc>Turn left at the 1st cross street onto St Patrick&#39;s Rd N</desc>
-<sym>Flag, Blue</sym>
-</rtept>
-<rtept lat="53.75825" lon="-3.03057">
-<ele>9</ele>
-<time>2026-10-03T00:39:22Z</time>
-<name>Turn left </name>
-<cmt>Turn left onto Allenby Rd</cmt>
-<desc>Turn left onto Allenby Rd</desc>
-<sym>Flag, Blue</sym>
-</rtept>
-<rtept lat="53.75725" lon="-3.03256">
-<ele>9</ele>
-<time>2026-10-03T00:41:26Z</time>
-<name>Turn right</name>
-<cmt>Turn right at the 1st cross street onto St David&#39;s Rd N</cmt>
-<desc>Turn right at the 1st cross street onto St David&#39;s Rd N</desc>
-<sym>Flag, Blue</sym>
-</rtept>
-<rtept lat="53.75782" lon="-3.03337">
-<ele>9</ele>
-<time>2026-10-03T00:42:26Z</time>
-<name>Turn right</name>
-<cmt>Turn right onto Ryeheys Rd</cmt>
-<desc>Turn right onto Ryeheys Rd</desc>
-<sym>Flag, Blue</sym>
-</rtept>
-<rtept lat="53.75783" lon="-3.033395">
-<ele>9</ele>
-<time>2026-10-03T00:42:28Z</time>
-<name>Turn right</name>
-<cmt>Turn right onto Ryeheys Road</cmt>
-<desc>Turn right onto Ryeheys Road</desc>
-<sym>Flag, Blue</sym>
-</rtept>
-<rtept lat="53.758814" lon="-3.03143">
-<ele>9</ele>
-<time>2026-10-03T00:44:30Z</time>
-<name>Turn left </name>
-<cmt>Turn left onto St Patrick&#39;s Road North</cmt>
-<desc>Turn left onto St Patrick&#39;s Road North</desc>
-<sym>Flag, Blue</sym>
-</rtept>
-<rtept lat="53.759422" lon="-3.032278">
-<ele>9</ele>
-<time>2026-10-03T00:45:33Z</time>
-<name>Turn right</name>
-<cmt>Turn right onto St Leonard&#39;s Road East</cmt>
-<desc>Turn right onto St Leonard&#39;s Road East</desc>
-<sym>Flag, Blue</sym>
-</rtept>
-<rtept lat="53.760492" lon="-3.029399">
-<ele>10</ele>
-<time>2026-10-03T00:48:14Z</time>
-<name>FINISH</name>
-<cmt>FINISH</cmt>
-<desc>FINISH</desc>
-<sym>Flag, Blue</sym>
-</rtept>
-</rte>
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="www.plotaroute.com" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>St Leonards Rd E</name>
+    <desc>Route created on plotaroute.com</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <trk>
+    <name>St Leonards Rd E</name>
+    <trkseg>
+      <trkpt lat="53.760616" lon="-3.029065">
+        <ele>10</ele>
+        <time>2026-10-03T00:00:26.000Z</time>
+      </trkpt>
+      <trkpt lat="53.76089" lon="-3.02543">
+        <ele>9</ele>
+        <time>2026-10-03T00:03:36.236Z</time>
+      </trkpt>
+      <trkpt lat="53.760891" lon="-3.025418">
+        <ele>9</ele>
+        <time>2026-10-03T00:03:36.865Z</time>
+      </trkpt>
+      <trkpt lat="53.760002" lon="-3.025218">
+        <ele>9.25</ele>
+        <time>2026-10-03T00:04:55.622Z</time>
+      </trkpt>
+      <trkpt lat="53.759921" lon="-3.02736">
+        <ele>10</ele>
+        <time>2026-10-03T00:06:47.051Z</time>
+      </trkpt>
+      <trkpt lat="53.759832" lon="-3.027347">
+        <ele>10</ele>
+        <time>2026-10-03T00:06:54.895Z</time>
+      </trkpt>
+      <trkpt lat="53.759751" lon="-3.027407">
+        <ele>9.79</ele>
+        <time>2026-10-03T00:07:02.660Z</time>
+      </trkpt>
+      <trkpt lat="53.759448" lon="-3.028019">
+        <ele>9.58</ele>
+        <time>2026-10-03T00:07:44.102Z</time>
+      </trkpt>
+      <trkpt lat="53.759452" lon="-3.028117">
+        <ele>9.47</ele>
+        <time>2026-10-03T00:07:49.201Z</time>
+      </trkpt>
+      <trkpt lat="53.759479" lon="-3.028178">
+        <ele>9.14</ele>
+        <time>2026-10-03T00:07:53.157Z</time>
+      </trkpt>
+      <trkpt lat="53.759556" lon="-3.028284">
+        <ele>9.3</ele>
+        <time>2026-10-03T00:08:01.875Z</time>
+      </trkpt>
+      <trkpt lat="53.759899" lon="-3.028757">
+        <ele>10</ele>
+        <time>2026-10-03T00:08:40.737Z</time>
+      </trkpt>
+      <trkpt lat="53.759932" lon="-3.028868">
+        <ele>10</ele>
+        <time>2026-10-03T00:08:47.187Z</time>
+      </trkpt>
+      <trkpt lat="53.759912" lon="-3.028977">
+        <ele>10</ele>
+        <time>2026-10-03T00:08:53.112Z</time>
+      </trkpt>
+      <trkpt lat="53.759541" lon="-3.029721">
+        <ele>9</ele>
+        <time>2026-10-03T00:09:43.642Z</time>
+      </trkpt>
+      <trkpt lat="53.758496" lon="-3.028199">
+        <ele>10</ele>
+        <time>2026-10-03T00:11:44.742Z</time>
+      </trkpt>
+      <trkpt lat="53.759" lon="-3.027212">
+        <ele>9.18</ele>
+        <time>2026-10-03T00:12:52.452Z</time>
+      </trkpt>
+      <trkpt lat="53.759012" lon="-3.027177">
+        <ele>9.29</ele>
+        <time>2026-10-03T00:12:54.552Z</time>
+      </trkpt>
+      <trkpt lat="53.759012" lon="-3.027177">
+        <ele>9.29</ele>
+        <time>2026-10-03T00:12:54.552Z</time>
+      </trkpt>
+      <trkpt lat="53.759037" lon="-3.027101">
+        <ele>9.54</ele>
+        <time>2026-10-03T00:12:59.067Z</time>
+      </trkpt>
+      <trkpt lat="53.759053" lon="-3.026994">
+        <ele>9.7</ele>
+        <time>2026-10-03T00:13:04.830Z</time>
+      </trkpt>
+      <trkpt lat="53.759116" lon="-3.025088">
+        <ele>10</ele>
+        <time>2026-10-03T00:14:44.511Z</time>
+      </trkpt>
+      <trkpt lat="53.75886389555199" lon="-3.0250592512471575">
+        <ele>9.972356968723595</ele>
+        <time>2026-10-03T00:15:06.828Z</time>
+      </trkpt>
+      <trkpt lat="53.75866" lon="-3.025036">
+        <ele>9.95</ele>
+        <time>2026-10-03T00:15:24.879Z</time>
+      </trkpt>
+      <trkpt lat="53.758223" lon="-3.025013">
+        <ele>9</ele>
+        <time>2026-10-03T00:16:03.496Z</time>
+      </trkpt>
+      <trkpt lat="53.757727" lon="-3.025008">
+        <ele>9</ele>
+        <time>2026-10-03T00:16:47.306Z</time>
+      </trkpt>
+      <trkpt lat="53.75727" lon="-3.02502">
+        <ele>9</ele>
+        <time>2026-10-03T00:17:27.676Z</time>
+      </trkpt>
+      <trkpt lat="53.757187" lon="-3.023342">
+        <ele>8</ele>
+        <time>2026-10-03T00:18:55.606Z</time>
+      </trkpt>
+      <trkpt lat="53.757162" lon="-3.023345">
+        <ele>8</ele>
+        <time>2026-10-03T00:18:57.819Z</time>
+      </trkpt>
+      <trkpt lat="53.757162" lon="-3.023345">
+        <ele>8</ele>
+        <time>2026-10-03T00:18:57.819Z</time>
+      </trkpt>
+      <trkpt lat="53.757162" lon="-3.023345">
+        <ele>8</ele>
+        <time>2026-10-03T00:20:01.652Z</time>
+      </trkpt>
+      <trkpt lat="53.756417" lon="-3.02344">
+        <ele>8</ele>
+        <time>2026-10-03T00:21:10.202Z</time>
+      </trkpt>
+      <trkpt lat="53.755742" lon="-3.023574">
+        <ele>8.2</ele>
+        <time>2026-10-03T00:22:12.560Z</time>
+      </trkpt>
+      <trkpt lat="53.755435" lon="-3.023672">
+        <ele>8.68</ele>
+        <time>2026-10-03T00:22:41.225Z</time>
+      </trkpt>
+      <trkpt lat="53.755315" lon="-3.023894">
+        <ele>8.72</ele>
+        <time>2026-10-03T00:22:57.542Z</time>
+      </trkpt>
+      <trkpt lat="53.754584" lon="-3.025245">
+        <ele>9</ele>
+        <time>2026-10-03T00:24:36.889Z</time>
+      </trkpt>
+      <trkpt lat="53.75458" lon="-3.02524">
+        <ele>9</ele>
+        <time>2026-10-03T00:24:37.345Z</time>
+      </trkpt>
+      <trkpt lat="53.75532" lon="-3.02634">
+        <ele>8</ele>
+        <time>2026-10-03T00:27:10.147Z</time>
+      </trkpt>
+      <trkpt lat="53.755717117881744" lon="-3.026925580605284">
+        <ele>8</ele>
+        <time>2026-10-03T00:27:53.224Z</time>
+      </trkpt>
+      <trkpt lat="53.75591" lon="-3.02721">
+        <ele>8</ele>
+        <time>2026-10-03T00:28:14.147Z</time>
+      </trkpt>
+      <trkpt lat="53.755067934197534" lon="-3.028869119749426">
+        <ele>8</ele>
+        <time>2026-10-03T00:29:57.529Z</time>
+      </trkpt>
+      <trkpt lat="53.7549" lon="-3.0292">
+        <ele>8</ele>
+        <time>2026-10-03T00:30:18.147Z</time>
+      </trkpt>
+      <trkpt lat="53.75549" lon="-3.03004">
+        <ele>8</ele>
+        <time>2026-10-03T00:31:20.147Z</time>
+      </trkpt>
+      <trkpt lat="53.75713643777871" lon="-3.0268375880567935">
+        <ele>8.904637206483816</ele>
+        <time>2026-10-03T00:34:40.976Z</time>
+      </trkpt>
+      <trkpt lat="53.75731" lon="-3.0265">
+        <ele>9</ele>
+        <time>2026-10-03T00:35:02.147Z</time>
+      </trkpt>
+      <trkpt lat="53.75789" lon="-3.02735">
+        <ele>9</ele>
+        <time>2026-10-03T00:36:04.147Z</time>
+      </trkpt>
+      <trkpt lat="53.75609" lon="-3.0309">
+        <ele>8</ele>
+        <time>2026-10-03T00:39:46.147Z</time>
+      </trkpt>
+      <trkpt lat="53.7567" lon="-3.03176">
+        <ele>9</ele>
+        <time>2026-10-03T00:40:49.147Z</time>
+      </trkpt>
+      <trkpt lat="53.756856105082804" lon="-3.0314509119360595">
+        <ele>9</ele>
+        <time>2026-10-03T00:41:08.504Z</time>
+      </trkpt>
+      <trkpt lat="53.7577" lon="-3.02978">
+        <ele>9</ele>
+        <time>2026-10-03T00:42:53.147Z</time>
+      </trkpt>
+      <trkpt lat="53.75825" lon="-3.03057">
+        <ele>9</ele>
+        <time>2026-10-03T00:43:50.147Z</time>
+      </trkpt>
+      <trkpt lat="53.758132963118015" lon="-3.0308029033951396">
+        <ele>9</ele>
+        <time>2026-10-03T00:44:04.659Z</time>
+      </trkpt>
+      <trkpt lat="53.7574017706664" lon="-3.032257976373876">
+        <ele>9</ele>
+        <time>2026-10-03T00:45:35.327Z</time>
+      </trkpt>
+      <trkpt lat="53.75725" lon="-3.03256">
+        <ele>9</ele>
+        <time>2026-10-03T00:45:54.147Z</time>
+      </trkpt>
+      <trkpt lat="53.75782" lon="-3.03337">
+        <ele>9</ele>
+        <time>2026-10-03T00:46:54.147Z</time>
+      </trkpt>
+      <trkpt lat="53.75783" lon="-3.033395">
+        <ele>9</ele>
+        <time>2026-10-03T00:46:55.571Z</time>
+      </trkpt>
+      <trkpt lat="53.75783" lon="-3.033395">
+        <ele>9</ele>
+        <time>2026-10-03T00:46:55.571Z</time>
+      </trkpt>
+      <trkpt lat="53.758624504960004" lon="-3.0318084123512214">
+        <ele>9</ele>
+        <time>2026-10-03T00:48:33.698Z</time>
+      </trkpt>
+      <trkpt lat="53.758814" lon="-3.03143">
+        <ele>9</ele>
+        <time>2026-10-03T00:48:57.103Z</time>
+      </trkpt>
+      <trkpt lat="53.759422" lon="-3.032278">
+        <ele>9</ele>
+        <time>2026-10-03T00:50:00.009Z</time>
+      </trkpt>
+      <trkpt lat="53.759569825804554" lon="-3.0318502673466003">
+        <ele>9</ele>
+        <time>2026-10-03T00:50:23.390Z</time>
+      </trkpt>
+      <trkpt lat="53.759591" lon="-3.031789">
+        <ele>9</ele>
+        <time>2026-10-03T00:50:26.740Z</time>
+      </trkpt>
+      <trkpt lat="53.7604" lon="-3.029644">
+        <ele>10</ele>
+        <time>2026-10-03T00:52:26.813Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
 </gpx>
